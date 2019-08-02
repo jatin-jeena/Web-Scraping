@@ -1,0 +1,13 @@
+1) Write a Python program to test if a given page is found or not on the server
+2) Write a Python program to download and display the content of robot.txt for en.wikipedia.org.
+3) Write a Python program to get the number of datasets currently listed on data.gov
+4) Write a Python program to convert an address (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates (like latitude 37.423021 and longitude -122.083739).
+
+Geocodin: Geocoding is the process of converting addresses (like "1600 Amphitheatre Parkway, Mountain View, CA") into geographic coordinates (like latitude 37.423021 and longitude -122.083739), which you can use to place markers on a map, or position the map.
+
+5) Write a Python program to display the name of the most recently added dataset on data.gov.
+6) Write a Python program to extract h1 tag from example.com
+7) Write a Python program to extract and display all the header tags from en.wikipedia.org/wiki/Main_Page.
+8) Write a Python program to extract and display all the image links from en.wikipedia.org/wiki/Peter_Jeffrey_(RAAF_officer).
+9) Write a Python program to get 90 days of visits broken down by browser for all sites on data.gov
+10) Write a Python program to that retrieves an arbitary Wikipedia page of "Python" and creates a list of links on that page.
